@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://queeviesae.speedcheck1.com/sitemap.xml
